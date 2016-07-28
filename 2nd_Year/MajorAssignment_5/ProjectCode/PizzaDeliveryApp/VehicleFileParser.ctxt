@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=filePath
+comment0.target=VehicleFileParser(java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ getVehiclesFromFile()
+comment1.text=\n\n\ Will\ loop\ through\ the\ text\ file\ line\ by\ line\n\ pass\ each\ line\ back\ through\ the\ DeliveryVehicleController\ Class\ based\ on\ its\ vehicle\ type.\n\ \ \n
+comment2.params=vehicleList
+comment2.target=void\ saveAllVehiclesToFile(java.util.ArrayList)
+comment2.text=\n\n\ Will\ add\ the\ current\ vehicleArrayList\ to\ the\ textFile\ and\ format\ it\ according\ to\ the\ toStrpass\ each\ line\ back\ through\ the\ DeliveryVehicleController\ Class\ based\ on\ its\ vehicle\ type.\n\ @vehicleList\ -\ Is\ an\ array\ list\ of\ type\ DeliveryVehicle\n\n
+numComments=3

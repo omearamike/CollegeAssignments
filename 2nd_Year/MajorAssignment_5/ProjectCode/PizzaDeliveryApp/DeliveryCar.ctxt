@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=registrationNumber\ engineSize\ daysInService\ milesCovered\ deliveriesMade
+comment0.target=DeliveryCar(java.lang.String,\ int,\ int,\ double,\ int)
+comment1.params=engineSize
+comment1.target=void\ setTax(int)
+comment2.params=engineSize
+comment2.target=void\ setFuelCost(int)
+comment3.params=
+comment3.target=double\ calculateRunningCost()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=registrationNumber\ engineSize\ daysInService\ milesCovered\ deliveriesMade
+comment0.target=DeliveryBike(java.lang.String,\ int,\ int,\ double,\ int)
+comment1.params=
+comment1.target=double\ calculateRunningCost()
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyBankController()
+comment1.params=name\ accountNumber
+comment1.target=void\ createAccount(java.lang.String,\ int)
+comment10.params=accountNumber
+comment10.target=void\ displayAccount(int)
+comment2.params=
+comment2.target=void\ printAccountDetails()
+comment3.params=
+comment3.target=void\ listAllAccounts()
+comment4.params=name\ accountNumber
+comment4.target=void\ updateCustomerName(java.lang.String,\ int)
+comment5.params=accountNumber
+comment5.target=void\ removeAccount(int)
+comment6.params=accountNumber
+comment6.target=BankAccount\ getAccount(int)
+comment7.params=accountNumber\ amount
+comment7.target=void\ makeWithdrawal(int,\ double)
+comment8.params=accountNumber\ amount
+comment8.target=void\ makeLodgement(int,\ double)
+comment9.params=accountNumber
+comment9.target=void\ closeAccount(int)
+numComments=11
